@@ -34,7 +34,7 @@ Ejemplo de un llamado:
 
 `http://amazonxxx.x.xxx.x.xxx:{port}/collatzsequence?value=13`
 
-El formato de la salida y la respuesta debe ser un JSON con el siguiente formato:
+El formato de la salida y la respuesta es un JSON con el siguiente formato:
 
 ```json
 {
