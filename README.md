@@ -107,7 +107,7 @@ sudo docker-compose up -d --build
 
 ![docker-compose](../media/docker-compose.png?raw=true)
 
-![docker-compose-2](../media/docker-compose2.png?raw=true)
+![docker-compose-2](../media/docker-compose-2.png?raw=true)
 
 Para subir la imagen a DockerHub, en el motor de Docker local, se crea una referencia a la imagen con el nombre del repositorio a donde se desea subirla:
 
@@ -121,7 +121,7 @@ Luego se sube la imagen:
 
 ![dockerhub push](../media/dockerhub-push.png?raw=true)
 
-### AWS
+### Amazon Web Services
 
 Primero se crea una instancia EC2:
 
