@@ -22,7 +22,7 @@ La secuencia se construye a partir de un número dado $k$ así:
 
 Por ejemplo, dado el número $k=13$, la secuencia sería:
 
-$13\rightarrow 40\rightarrow 20\rightarrow 10\rightarrow 5\rightarrow 16\rightarrow 8\rightarrow 4\rightarrow 2\rightarrow 1\rightarrow$
+$13\rightarrow 40\rightarrow 20\rightarrow 10\rightarrow 5\rightarrow 16\rightarrow 8\rightarrow 4\rightarrow 2\rightarrow 1$
 
 ### Arquitectura
 
