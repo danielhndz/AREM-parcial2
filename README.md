@@ -46,9 +46,7 @@ El formato de la salida y la respuesta es un JSON con el siguiente formato:
 
 ### Video
 
-![demo](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/daniel_hernandez-ma_mail_escuelaing_edu_co/ET0189TLG79HjbT5YmZ5ZSkBjMpvKgbD9gG6ogXBb9FyLg?e=x2K6gQ)
-
-https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/daniel_hernandez-ma_mail_escuelaing_edu_co/ET0189TLG79HjbT5YmZ5ZSkBjMpvKgbD9gG6ogXBb9FyLg?e=x2K6gQ
+[OneDrive](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/daniel_hernandez-ma_mail_escuelaing_edu_co/ET0189TLG79HjbT5YmZ5ZSkBjMpvKgbD9gG6ogXBb9FyLg?e=x2K6gQ)
 
 ## Getting Started
 
