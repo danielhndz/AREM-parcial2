@@ -44,6 +44,10 @@ El formato de la salida y la respuesta es un JSON con el siguiente formato:
 }
 ```
 
+### Video
+
+![demo](../media/AREM-parcial2.mp4?raw=true)
+
 ## Getting Started
 
 ### Prerequisites
