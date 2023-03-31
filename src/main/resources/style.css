@@ -1,0 +1,38 @@
+* {
+  font-family: "Roboto", sans-serif;
+  background-color: #f5f6fa;
+}
+
+h1,
+h3 {
+  padding: 5px;
+  margin: 15px 0px;
+}
+
+sub {
+  font-size: small;
+}
+
+h1 .form {
+  padding: 5px;
+}
+
+.form label {
+  margin: 5px 2px;
+}
+
+.form input {
+  margin: 5px 2px;
+  padding: 8px;
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+.form input:focus {
+  outline: none !important;
+}
+
+.container {
+  margin: 5px 2px;
+  padding: 8px;
+}
